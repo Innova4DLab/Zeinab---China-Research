@@ -9,7 +9,7 @@ https://hub.docker.com/r/joseluisvzg/anaconda3/
 
 The next notebook shows the SinaWeibo API exploration in order to extract publib weibos. It makes use of Google Colab to connect with US IP address and also to take advantage of cloud services.
 
-https://drive.google.com/open?id=1hLKUSrtCGHQ7gcjUxYdEf5Ut19zYXvrP
+https://colab.research.google.com/drive/1hLKUSrtCGHQ7gcjUxYdEf5Ut19zYXvrP
 
 
-In addition, daily is being downloaded public SinaWeibo data. The Notebook along with daily datasets are available from: https://drive.google.com/open?id=1dHLeYQa86u3KksiHucwPhtlXvLTRnvMW
+In addition, daily is being downloaded public SinaWeibo data. The Notebook along with daily datasets are available from: https://colab.research.google.com/drive/1dHLeYQa86u3KksiHucwPhtlXvLTRnvMW
