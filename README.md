@@ -7,7 +7,7 @@ https://hub.docker.com/r/joseluisvzg/anaconda3/
 
 In order to execute the notebooks on your host you can use Spyder (ready to use development environment with all libraries required to do data analytics).
 
-### Installing Docker ###
+## Installing Docker ##
  
 Download & install Docker from: https://www.docker.com/get-started
 
