@@ -20,7 +20,11 @@ curl -s -O https://raw.githubusercontent.com/compdatasci/spyder-desktop/master/s
 After downloading the script, you can start the Docker image using the command:
 python spyder_desktop.py -p
 
-For more details about the Spyder image: https://hub.docker.com/r/compdatasci/spyder-desktop/
+For more details about the Spyder installation you can see the following video where Spyder is installed:
+https://app.box.com/s/of4zr9v933ihd56mpk359uq8livhaht2
+
+Official documentation:
+https://hub.docker.com/r/compdatasci/spyder-desktop/
 
 ## SinaWeibo API exploration ##
 
